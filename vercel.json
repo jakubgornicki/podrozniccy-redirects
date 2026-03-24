@@ -1,8 +1,13 @@
 {
   "redirects": [
     {
+      "source": "/pl/polska-z-drona",
+      "destination": "https://jakubgornicki.com/stories/poland-by-drone",
+      "permanent": true
+    },
+    {
       "source": "/(.*)",
-      "destination": "https://jakubgornicki.com/$1",
+      "destination": "https://jakubgornicki.com",
       "permanent": true
     }
   ]
