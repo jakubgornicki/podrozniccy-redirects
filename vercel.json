@@ -1,8 +1,28 @@
 {
   "redirects": [
     {
+      "source": "/pl/ksiegalasow/26871/lasy-janowskie.htm",
+      "destination": "https://jakubgornicki.com/journalism/stories/book-of-forests",
+      "permanent": true
+    },
+    {
+      "source": "/pl/ksiegalasow",
+      "destination": "https://jakubgornicki.com/journalism/stories/book-of-forests",
+      "permanent": true
+    },
+    {
       "source": "/pl/polska-z-drona",
       "destination": "https://jakubgornicki.com/journalism/stories/poland-by-drone",
+      "permanent": true
+    },
+    {
+      "source": "/pl/wachlarz/14510/wystapienia.htm",
+      "destination": "https://www.jakubgornicki.com/journalism/infrastructure/wachlarz/2014",
+      "permanent": true
+    },
+    {
+      "source": "/pl/wachlarz/14369/galeria-wachlarz-7.htm",
+      "destination": "https://www.jakubgornicki.com/journalism/infrastructure/wachlarz/2014",
       "permanent": true
     },
     {
