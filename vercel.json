@@ -6,6 +6,16 @@
       "permanent": true
     },
     {
+      "source": "/pl/wachlarz/14359/dziekujemy.htm",
+      "destination": "https://www.jakubgornicki.com/journalism/infrastructure/wachlarz",
+      "permanent": true
+    },
+    {
+      "source": "/pl/spotkania-wachlarz/2015",
+      "destination": "https://www.jakubgornicki.com/journalism/infrastructure/wachlarz/2015",
+      "permanent": true
+    },
+    {
       "source": "/(.*)",
       "destination": "https://jakubgornicki.com",
       "permanent": true
