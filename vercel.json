@@ -1,6 +1,31 @@
 {
   "redirects": [
     {
+      "source": "/pl/witkacy",
+      "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
+      "permanent": true
+    },
+    {
+      "source": "/pl/witkacy/382/witkacy-pali-sie-do--walki-z-niemcami.htm",
+      "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
+      "permanent": true
+    },
+    {
+      "source": "/pl/witkacy/cejlon/303/odnalezlismy-miejsce-gdzie-witkacy-spedzil-noc-z-browningiem-przy-skroni.htm",
+      "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
+      "permanent": true
+    },
+    {
+      "source": "/pl/witkacy/381/witkacy-w-petersburgu-i-armii-carskiej.htm",
+      "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
+      "permanent": true
+    },
+    {
+      "source": "/pl/witkacy/cejlon/233/hotel-witkacego.htm",
+      "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
+      "permanent": true
+    },
+    {
       "source": "/pl/ksiegalasow/26871/lasy-janowskie.htm",
       "destination": "https://jakubgornicki.com/journalism/stories/book-of-forests",
       "permanent": true
@@ -13,6 +38,11 @@
     {
       "source": "/pl/polska-z-drona",
       "destination": "https://jakubgornicki.com/journalism/stories/poland-by-drone",
+      "permanent": true
+    },
+    {
+      "source": "/pl/wachlarz",
+      "destination": "https://www.jakubgornicki.com/journalism/infrastructure/wachlarz",
       "permanent": true
     },
     {
