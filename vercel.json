@@ -36,12 +36,12 @@
       "permanent": true
     },
     {
-      "source": "/pl/ksiegalasow/26871/lasy-janowskie.htm",
+      "source": "/pl/ksiegalasow/:path*",
       "destination": "https://jakubgornicki.com/journalism/stories/book-of-forests",
       "permanent": true
     },
     {
-      "source": "/pl/ksiegalasow",
+      "source": "/pl/podroze/24942/lasy-bieszczadzkie.htm",
       "destination": "https://jakubgornicki.com/journalism/stories/book-of-forests",
       "permanent": true
     },
