@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/pl/zycie-innych/:path*",
+      "destination": "https://jakubgornicki.com/journalism/stories/life-of-others",
+      "permanent": true
+    },
+    {
       "source": "/pl/witkacy",
       "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
       "permanent": true
