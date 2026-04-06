@@ -6,27 +6,7 @@
       "permanent": true
     },
     {
-      "source": "/pl/witkacy",
-      "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
-      "permanent": true
-    },
-    {
-      "source": "/pl/witkacy/382/witkacy-pali-sie-do--walki-z-niemcami.htm",
-      "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
-      "permanent": true
-    },
-    {
-      "source": "/pl/witkacy/cejlon/303/odnalezlismy-miejsce-gdzie-witkacy-spedzil-noc-z-browningiem-przy-skroni.htm",
-      "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
-      "permanent": true
-    },
-    {
-      "source": "/pl/witkacy/381/witkacy-w-petersburgu-i-armii-carskiej.htm",
-      "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
-      "permanent": true
-    },
-    {
-      "source": "/pl/witkacy/cejlon/233/hotel-witkacego.htm",
+      "source": "/pl/witkacy/:path*",
       "destination": "https://jakubgornicki.com/journalism/stories/exploring-witkacy",
       "permanent": true
     },
